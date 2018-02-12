@@ -7,7 +7,7 @@ This book will teach you topics ranging from memory management and assembly to c
 
 By the end of this book, you will have become an expert in Shellcode and will understand how systems are compromised both at the operating system and network level.
 ## Instructions and Navigation
-All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
+All of the code is organized into folders. For example, Chapter07.
 
 
 
@@ -36,6 +36,3 @@ All addresses in this book are dependent on author's machine and operating syste
 * [Kali Linux - An Ethical Hacker's Cookbook](https://www.packtpub.com/networking-and-servers/kali-linux-pentesting-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781787121829)
 
 * [Kali Linux 2017 Wireless Penetration Testing for Beginners [Video]](https://www.packtpub.com/networking-and-servers/kali-linux-2017-wireless-penetration-testing-beginners-video?utm_source=github&utm_medium=repository&utm_campaign=9781788394055)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
