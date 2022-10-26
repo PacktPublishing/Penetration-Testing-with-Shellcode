@@ -36,3 +36,7 @@ All addresses in this book are dependent on author's machine and operating syste
 * [Kali Linux - An Ethical Hacker's Cookbook](https://www.packtpub.com/networking-and-servers/kali-linux-pentesting-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781787121829)
 
 * [Kali Linux 2017 Wireless Penetration Testing for Beginners [Video]](https://www.packtpub.com/networking-and-servers/kali-linux-2017-wireless-penetration-testing-beginners-video?utm_source=github&utm_medium=repository&utm_campaign=9781788394055)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781788473736">https://packt.link/free-ebook/9781788473736 </a> </p>
